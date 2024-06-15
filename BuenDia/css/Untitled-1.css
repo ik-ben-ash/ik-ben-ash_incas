@@ -1,0 +1,17 @@
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+#elec {
+    color: rgb(17, 167, 170) ;
+    text-align: center;
+  }
+
+  #backdrop { background-image: url("../imagenes/After.jpg")}
+
+  
+  

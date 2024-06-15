@@ -1,0 +1,14 @@
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+  }
+
+  #backdrop { background-image: url("../imagenes/incas.png");
+    background-size: contain;
+}
+
